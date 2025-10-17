@@ -1,6 +1,6 @@
 # Optics App
 
-Desktop editor for laying out optical schemes. I vibecoded it because as I notices science nerds use shitass tools like Paint or Inkscape which force you to spend a lot of time. The application is written with PySide6 and provides a canvas with grid snapping, a categorized component browser populated from local PNG assets, and tools for drawing laser paths. Use it to assemble diagrams, save them as JSON projects, or export them as high-resolution PNG images.
+Desktop editor for laying out optical schemes. I vibecoded it because as I noticed science nerds use shitass tools like Paint or Inkscape which force you to spend a lot of time. The application is written with PySide6 and provides a canvas with grid snapping, a categorized component browser populated from local PNG assets, and tools for drawing laser paths. Use it to assemble diagrams, save them as JSON projects, or export them as high-resolution PNG images.
 
 ## Features
 
