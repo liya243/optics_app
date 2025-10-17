@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "canvas": {
+    "width": 1000,
+    "height": 800
+  },
+  "items": [
+    {
+      "type": "component",
+      "label": "Линза",
+      "layer": "Слой 1",
+      "pos": [
+        440.0,
+        320.0
+      ],
+      "rotation": 0.0,
+      "opacity": 1.0,
+      "transform": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ]
+    }
+  ]
+}
